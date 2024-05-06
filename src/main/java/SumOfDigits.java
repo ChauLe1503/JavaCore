@@ -20,5 +20,6 @@ public class SumOfDigits {
       number = number / 10;
     }
     return sum;
+
   }
 }
